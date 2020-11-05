@@ -1,0 +1,13 @@
+.banner {
+    background-image: url("../../images/design-smaller.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 225px 0;
+    color: black;
+    justify-content: center;
+    display: flex;
+}
+
+div {
+    display: block;
+}
