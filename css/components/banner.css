@@ -11,3 +11,7 @@
 div {
     display: block;
 }
+
+.banner > p {
+  color: black;
+}
